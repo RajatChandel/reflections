@@ -1,0 +1,3 @@
+It helps because in the first file there was no such bug,
+ it only appeared in the second file. So, by checking 
+ what has changed between the two versions we can identify the bug.
